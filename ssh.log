@@ -1,4 +1,0 @@
-{"error": "port_open.. 0.0.0.0 still open..", "server": "ssh_server", "timestamp": "2022-03-03T13:40:27.354538"}
-{"action": "process", "dest_ip": "0.0.0.0", "dest_port": "22", "password": "trickedyou!0", "server": "ssh_server", "src_ip": "0.0.0.0", "src_port": "22", "status": "error", "timestamp": "2022-03-03T13:40:27.361688", "username": "root"}
-{"error": "port_open.. 0.0.0.0 still open..", "server": "ssh_server", "timestamp": "2022-03-04T09:43:36.046417"}
-{"action": "process", "dest_ip": "0.0.0.0", "dest_port": "22", "password": "trickedyou!0", "server": "ssh_server", "src_ip": "0.0.0.0", "src_port": "22", "status": "error", "timestamp": "2022-03-04T09:43:36.052735", "username": "root"}
