@@ -1,5 +1,0 @@
-{"action": "process", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "trickedyou!0", "server": "mssql_server", "src_ip": "0.0.0.0", "src_port": "1433", "status": "success", "timestamp": "2022-03-03T13:40:27.394211", "username": "sa"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "10.10.101.74", "src_port": "51914", "timestamp": "2022-03-03T13:45:27.513545"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "10.10.101.74", "src_port": "52882", "timestamp": "2022-03-03T13:45:27.596464"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "10.10.101.74", "src_port": "52952", "timestamp": "2022-03-03T13:45:38.609302"}
-{"action": "process", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "trickedyou!0", "server": "mssql_server", "src_ip": "0.0.0.0", "src_port": "1433", "status": "success", "timestamp": "2022-03-04T09:43:36.092240", "username": "sa"}
