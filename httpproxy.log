@@ -1,0 +1,78 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46334", "timestamp": "2022-03-06T17:32:34.682750"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46336", "timestamp": "2022-03-06T17:32:34.684951"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46338", "timestamp": "2022-03-06T17:32:34.688454"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46340", "timestamp": "2022-03-06T17:32:34.692595"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46342", "timestamp": "2022-03-06T17:32:34.697671"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46344", "timestamp": "2022-03-06T17:32:34.702320"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46346", "timestamp": "2022-03-06T17:32:34.705743"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46348", "timestamp": "2022-03-06T17:32:34.710310"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46350", "timestamp": "2022-03-06T17:32:34.713869"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46352", "timestamp": "2022-03-06T17:32:34.719029"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46354", "timestamp": "2022-03-06T17:32:34.720985"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46356", "timestamp": "2022-03-06T17:32:34.725986"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46358", "timestamp": "2022-03-06T17:32:34.729690"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46360", "timestamp": "2022-03-06T17:32:34.733703"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46362", "timestamp": "2022-03-06T17:32:34.738387"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46364", "timestamp": "2022-03-06T17:32:34.740299"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46366", "timestamp": "2022-03-06T17:32:34.745154"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46368", "timestamp": "2022-03-06T17:32:34.750035"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46370", "timestamp": "2022-03-06T17:32:34.754903"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46372", "timestamp": "2022-03-06T17:32:34.756784"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46374", "timestamp": "2022-03-06T17:32:34.760305"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46376", "timestamp": "2022-03-06T17:32:34.765206"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46378", "timestamp": "2022-03-06T17:32:34.770117"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46380", "timestamp": "2022-03-06T17:32:34.776229"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46382", "timestamp": "2022-03-06T17:32:34.781153"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "10.10.101.74", "src_port": "46384", "timestamp": "2022-03-06T17:32:34.786068"}
+{"action": "process", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "0.0.0.0", "src_port": "8080", "status": "success", "timestamp": "2022-03-06T17:37:55.495603"}
+{"action": "process", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "0.0.0.0", "src_port": "8080", "status": "success", "timestamp": "2022-03-06T20:17:13.668137"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50120", "timestamp": "2022-03-06T20:23:21.387184"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50122", "timestamp": "2022-03-06T20:23:21.422913"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50124", "timestamp": "2022-03-06T20:23:21.456420"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50126", "timestamp": "2022-03-06T20:23:21.492258"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50128", "timestamp": "2022-03-06T20:23:21.522406"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50130", "timestamp": "2022-03-06T20:23:21.558324"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50132", "timestamp": "2022-03-06T20:23:21.596693"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50134", "timestamp": "2022-03-06T20:23:21.631028"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50136", "timestamp": "2022-03-06T20:23:21.667088"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50138", "timestamp": "2022-03-06T20:23:21.702965"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50140", "timestamp": "2022-03-06T20:23:21.738979"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50142", "timestamp": "2022-03-06T20:23:21.787194"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50144", "timestamp": "2022-03-06T20:23:21.821672"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50146", "timestamp": "2022-03-06T20:23:21.859760"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50148", "timestamp": "2022-03-06T20:23:21.894487"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50150", "timestamp": "2022-03-06T20:23:21.930738"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50152", "timestamp": "2022-03-06T20:23:21.970109"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50154", "timestamp": "2022-03-06T20:23:22.005826"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50156", "timestamp": "2022-03-06T20:23:22.043319"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50158", "timestamp": "2022-03-06T20:23:22.080718"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50162", "timestamp": "2022-03-06T20:23:29.643439"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50164", "timestamp": "2022-03-06T20:23:29.683190"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50166", "timestamp": "2022-03-06T20:23:29.722464"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50168", "timestamp": "2022-03-06T20:23:29.758978"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50170", "timestamp": "2022-03-06T20:23:29.802325"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50172", "timestamp": "2022-03-06T20:23:29.839285"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50174", "timestamp": "2022-03-06T20:23:29.874763"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50176", "timestamp": "2022-03-06T20:23:29.911178"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50178", "timestamp": "2022-03-06T20:23:29.949818"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50180", "timestamp": "2022-03-06T20:23:29.986750"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50186", "timestamp": "2022-03-06T20:23:31.431716"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50184", "timestamp": "2022-03-06T20:23:31.435078"}
+{"action": "query", "data": "ecs-77-242-242-150.reverse.g42cloud.com", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50184", "timestamp": "2022-03-06T20:23:31.436604"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50188", "timestamp": "2022-03-06T20:23:37.081510"}
+{"action": "query", "data": "ecs-77-242-242-150.reverse.g42cloud.com", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50188", "timestamp": "2022-03-06T20:23:37.091155"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50192", "timestamp": "2022-03-06T20:23:37.687837"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50190", "timestamp": "2022-03-06T20:23:37.694319"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50194", "timestamp": "2022-03-06T20:23:37.695779"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50196", "timestamp": "2022-03-06T20:23:37.735250"}
+{"action": "query", "data": "ecs-77-242-242-150.reverse.g42cloud.com", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50196", "timestamp": "2022-03-06T20:23:37.741164"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50198", "timestamp": "2022-03-06T20:23:37.752541"}
+{"action": "query", "data": "ecs-77-242-242-150.reverse.g42cloud.com", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50198", "timestamp": "2022-03-06T20:23:37.758042"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50200", "timestamp": "2022-03-06T20:23:37.782894"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50202", "timestamp": "2022-03-06T20:23:37.822366"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50204", "timestamp": "2022-03-06T20:23:37.858838"}
+{"action": "query", "data": "ecs-77-242-242-150.reverse.g42cloud.com", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50204", "timestamp": "2022-03-06T20:23:37.861937"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50206", "timestamp": "2022-03-06T20:23:37.900672"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50208", "timestamp": "2022-03-06T20:23:37.946845"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50210", "timestamp": "2022-03-06T20:23:37.948362"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "8080", "server": "http_proxy_server", "src_ip": "86.97.6.79", "src_port": "50212", "timestamp": "2022-03-06T20:23:37.985331"}
