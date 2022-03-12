@@ -1,7 +1,0 @@
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "46.19.139.42", "src_port": "52698", "timestamp": "2022-03-12T10:46:11.949028"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "46.19.139.42", "src_port": "51000", "timestamp": "2022-03-12T10:46:17.352585"}
-{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "2222", "password": "1", "server": "ssh_server", "src_ip": "46.19.139.42", "src_port": "51000", "status": "failed", "timestamp": "2022-03-12T10:46:18.164508", "username": "user"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "179.43.187.173", "src_port": "44786", "timestamp": "2022-03-12T10:56:35.636569"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "179.43.187.173", "src_port": "33218", "timestamp": "2022-03-12T10:56:51.711743"}
-{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "2222", "password": "1", "server": "ssh_server", "src_ip": "179.43.187.173", "src_port": "33218", "status": "failed", "timestamp": "2022-03-12T10:56:52.610367", "username": "user"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "167.248.133.46", "src_port": "37896", "timestamp": "2022-03-12T10:57:46.209676"}
