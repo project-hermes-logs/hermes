@@ -1,0 +1,10 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "93.84.102.252", "src_port": "55136", "timestamp": "2022-03-19T03:40:14.403527"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "carlo", "server": "mssql_server", "src_ip": "93.84.102.252", "src_port": "55136", "status": "failed", "timestamp": "2022-03-19T03:40:14.583398", "username": "sa"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "93.84.102.252", "src_port": "55140", "timestamp": "2022-03-19T03:40:14.921171"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "doggy2", "server": "mssql_server", "src_ip": "93.84.102.252", "src_port": "55140", "status": "failed", "timestamp": "2022-03-19T03:40:15.092017", "username": "sa"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "93.84.102.252", "src_port": "55170", "timestamp": "2022-03-19T03:40:15.436755"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "16071988", "server": "mssql_server", "src_ip": "93.84.102.252", "src_port": "55170", "status": "failed", "timestamp": "2022-03-19T03:40:15.610538", "username": "sa"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "93.84.102.252", "src_port": "55175", "timestamp": "2022-03-19T03:40:15.948119"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "998899", "server": "mssql_server", "src_ip": "93.84.102.252", "src_port": "55175", "status": "failed", "timestamp": "2022-03-19T03:40:16.118859", "username": "sa"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "93.84.102.252", "src_port": "55183", "timestamp": "2022-03-19T03:40:16.460558"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "15111998", "server": "mssql_server", "src_ip": "93.84.102.252", "src_port": "55183", "status": "failed", "timestamp": "2022-03-19T03:40:16.632365", "username": "sa"}
