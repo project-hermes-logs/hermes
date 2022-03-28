@@ -1,9 +1,0 @@
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "64.227.129.252", "src_port": "40310", "timestamp": "2022-03-28T10:57:47.282253"}
-{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "2222", "password": "1qaz2wsx", "server": "ssh_server", "src_ip": "64.227.129.252", "src_port": "40310", "status": "failed", "timestamp": "2022-03-28T10:57:48.119782", "username": "root"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "64.227.129.252", "src_port": "43966", "timestamp": "2022-03-28T10:58:31.253882"}
-{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "2222", "password": "!QAZ@WSX", "server": "ssh_server", "src_ip": "64.227.129.252", "src_port": "43966", "status": "failed", "timestamp": "2022-03-28T10:58:32.166516", "username": "root"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "61.177.173.2", "src_port": "18985", "timestamp": "2022-03-28T10:58:46.140753"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "64.227.129.252", "src_port": "47622", "timestamp": "2022-03-28T10:59:15.339481"}
-{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "2222", "password": "P@ssw0rd", "server": "ssh_server", "src_ip": "64.227.129.252", "src_port": "47622", "status": "failed", "timestamp": "2022-03-28T10:59:16.183023", "username": "root"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "64.227.129.252", "src_port": "51286", "timestamp": "2022-03-28T10:59:58.871261"}
-{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "2222", "password": "P@ssword", "server": "ssh_server", "src_ip": "64.227.129.252", "src_port": "51286", "status": "failed", "timestamp": "2022-03-28T10:59:59.749299", "username": "root"}
