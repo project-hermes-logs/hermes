@@ -1,3 +1,0 @@
-{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "2222", "password": "1", "server": "ssh_server", "src_ip": "92.255.85.237", "src_port": "39226", "status": "failed", "timestamp": "2022-04-02T21:58:47.339159", "username": "admin"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "61.177.173.2", "src_port": "10772", "timestamp": "2022-04-02T21:59:04.954854"}
-{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "2222", "server": "ssh_server", "src_ip": "61.177.173.22", "src_port": "50933", "timestamp": "2022-04-02T21:59:51.298855"}
