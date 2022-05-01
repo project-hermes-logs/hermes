@@ -1,0 +1,17 @@
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "xc12345", "server": "mssql_server", "src_ip": "80.66.88.18", "src_port": "46663", "status": "failed", "timestamp": "2022-05-01T19:57:01.774405", "username": "sa"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "80.66.76.22", "src_port": "48846", "timestamp": "2022-05-01T19:57:48.851865"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "80.66.88.13", "src_port": "8862", "timestamp": "2022-05-01T19:57:49.856046"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "80.66.88.13", "src_port": "13193", "timestamp": "2022-05-01T19:57:59.001442"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "80.66.88.19", "src_port": "46391", "timestamp": "2022-05-01T19:57:59.056785"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "admin", "server": "mssql_server", "src_ip": "80.66.88.19", "src_port": "46391", "status": "failed", "timestamp": "2022-05-01T19:57:59.330239", "username": "adm"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "Password111", "server": "mssql_server", "src_ip": "80.66.88.13", "src_port": "13193", "status": "failed", "timestamp": "2022-05-01T19:57:59.381148", "username": "sa"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "80.66.88.11", "src_port": "2785", "timestamp": "2022-05-01T19:58:24.869810"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "80.66.88.18", "src_port": "28839", "timestamp": "2022-05-01T19:58:42.718531"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "As123", "server": "mssql_server", "src_ip": "80.66.88.18", "src_port": "28839", "status": "failed", "timestamp": "2022-05-01T19:58:43.053787", "username": "sa"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "80.66.88.11", "src_port": "15181", "timestamp": "2022-05-01T19:58:56.658571"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "XCVBNM,./", "server": "mssql_server", "src_ip": "80.66.88.11", "src_port": "15181", "status": "failed", "timestamp": "2022-05-01T19:58:57.091341", "username": "sa"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "87.251.75.20", "src_port": "23826", "timestamp": "2022-05-01T19:59:07.347626"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "7788945", "server": "mssql_server", "src_ip": "87.251.75.20", "src_port": "23826", "status": "failed", "timestamp": "2022-05-01T19:59:08.236607", "username": "sa"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "80.66.76.22", "src_port": "26580", "timestamp": "2022-05-01T19:59:26.543706"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "server": "mssql_server", "src_ip": "80.66.88.11", "src_port": "34614", "timestamp": "2022-05-01T19:59:43.361472"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "002", "server": "mssql_server", "src_ip": "80.66.88.11", "src_port": "34614", "status": "failed", "timestamp": "2022-05-01T19:59:43.787281", "username": "002"}
